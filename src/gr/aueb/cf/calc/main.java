@@ -13,5 +13,6 @@ public class main {
     public static int div(int a, int b) {
         return a/b;
     }
+    public static int mod(int a, int b){ return a % b ; }
 
 }
